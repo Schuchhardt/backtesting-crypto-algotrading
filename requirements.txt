@@ -1,0 +1,4 @@
+ccxt
+vectorbt
+psycopg2-binary
+pandas

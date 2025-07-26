@@ -1,0 +1,3 @@
+# Crypto Algorithm Backtester
+
+Documentación inicial...
